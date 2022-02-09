@@ -8,5 +8,5 @@ Here's why this is such a good framework:
 * Enables easy expansion
 * All code is commented for easy understanding
 
-The "Main.class" file contains a few examples of code to get you started and
+The "Main.java" file contains a few examples of code to get you started and
 feel free to reach out to me if you feel the need to ask any questions.
